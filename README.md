@@ -1,0 +1,1 @@
+The Currency Converter app allows users to convert values between different currencies quickly and accurately using real-time exchange rates. It features a responsive design for seamless use across devices and offers an intuitive, user-friendly interface for hassle-free conversions.
